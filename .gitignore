@@ -26,3 +26,5 @@ Thumbs.db
 *.iso
 # Ket qua quet tam cua tung sinh vien
 ketqua_*.txt
+# PDF lab khong day len GitHub (mac dinh); PDF giu o Bai_thuchanh\
+*.pdf
